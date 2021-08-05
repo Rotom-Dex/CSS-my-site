@@ -6,6 +6,7 @@ body{
 }
 p{
   color: #40514E;
+  font-size: 70%;
   font-weight: 900;
 }
 hr{
@@ -14,7 +15,7 @@ hr{
   border-bottom: 0px solid;
 }
 h1{
-  font-size: 80px;
+  font-size: 500%;
   margin-top: 50px;
   margin-bottom: 0px;
   font-family: 'Indie Flower', cursive;
